@@ -1,2 +1,7 @@
 one
 1
+<<<<<<< Updated upstream
+=======
+hello
+uno
+>>>>>>> Stashed changes
